@@ -1,5 +1,3 @@
-//implements, extens
-
 public class Main{
     public static void main(String[] args) {
         //Crea ahora un objeto de la clase Cliente que debe tener como propiedades la edad, el telefono, el nombre y el credito, tienes que darles valor y mostrarlas por pantalla.
